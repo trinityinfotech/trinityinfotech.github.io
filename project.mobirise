@@ -44,7 +44,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "TEJ AQUA | Home",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -745,7 +745,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/tej-logo-copy-2000x1414.png",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -763,7 +763,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/tej-logo1-copy-2000x1414.png",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
